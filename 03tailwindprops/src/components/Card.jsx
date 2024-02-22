@@ -1,7 +1,6 @@
 import React from 'react'
 
 function Card({userName,profile="not open",images}) {
-    console.log(userName,profile,images);
   return (
     <div className="relative h-[400px] w-[300px] rounded-md">
       <img
