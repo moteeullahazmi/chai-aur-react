@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    {/* chai */}
       <h1>Learn Redux Tool Kit</h1>
       <AddTodo/>
       <Todos/>
